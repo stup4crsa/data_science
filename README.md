@@ -1,7 +1,7 @@
 data_science
 ============
 
-## HOW IT WORKS -- note I am only using PART of the huge dataset -- if you try to run this, you will need to copy the smaller versions from here, the ..._150.csv and ..._160.csv in test
+## HOW IT WORKS -- note I am only using PART of the huge dataset -- if you try to run this, you will need to copy the smaller versions from here, the ..._150.csv and ..._160.csv in test/ and train/
 
 ; to run this, you must use file->change_directory->"uci har dataset"
 ; the dir() command must include the following files/dir for you to be
