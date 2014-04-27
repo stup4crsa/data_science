@@ -1,7 +1,7 @@
 data_science
 ============
 
-## HOW IT WORKS
+## HOW IT WORKS -- note I am only using PART of the huge dataset -- if you try to run this, you will need to 
 
 ; to run this, you must use file->change_directory->"uci har dataset"
 ; the dir() command must include the following files/dir for you to be
