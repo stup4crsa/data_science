@@ -1,0 +1,5 @@
+head -150 x_test.txt > x_test_150.txt
+head -150 y_test.txt > y_test_150.txt
+
+wc -l x_test_150.txt
+wc -l y_test_150.txt

@@ -1,0 +1,4 @@
+head -160 x_train.txt > x_train_160.txt
+head -160 y_train.txt > y_train_160.txt
+wc -l x_train_160.txt
+wc -l y_train_160.txt
